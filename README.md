@@ -4,7 +4,7 @@ Author name:- Tabitha Chepngetich
 ## Description of program
 Quiz Board is a web application that allows users ( students) to answer JS quizzes as a proof of completion of a JS course carried out by a high school club.
 ## Design
-You can obtain the figma design file here-------
+You can obtain the figma design file here [FIGMA FILE](https://www.figma.com/file/rUYXufeVUOrmBVEBrelzLN/QUIZZ_BOARD?node-id=0%3A1)
 ## Techlogy used
 * Html
 * CSS
