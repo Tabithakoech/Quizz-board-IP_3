@@ -2,15 +2,24 @@
     color: rgb(86, 114, 104);
     text-align: center;
     padding: 3vh;
-    background-color: beige;
+    background-color: #F9EBC8;
     font-family: nunito;
     font-weight: 500vh;
     border-radius: 150vh;
-    margin: 15vh;
+    margin: 3vh 30vh 2vh 30vh;
 }
 form{
-    padding: 100px;
-    background-color: beige;
+    padding:1vh 10vh 10vh 10vh;
+    background-color: #FEFBE7;
     border-radius: 10vh;
-    margin: 15vh;
+    margin: 0vh 30vh 30vh 30vh;
+}
+form .btn{
+    border-radius: 200vh;
+    padding: 2vh 4vh 2vh 4vh; 
+}
+form .btn:hover{
+    background-color: white;
+    color: gray;
+    cursor: pointer;
 }
