@@ -5,4 +5,12 @@
     background-color: beige;
     font-family: nunito;
     font-weight: 500vh;
+    border-radius: 150vh;
+    margin: 15vh;
+}
+form{
+    padding: 100px;
+    background-color: beige;
+    border-radius: 10vh;
+    margin: 15vh;
 }
