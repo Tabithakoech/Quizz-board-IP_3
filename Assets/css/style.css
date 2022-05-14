@@ -1,25 +1,37 @@
+*{
+    box-sizing: border-box;
+}
 .top_tile{
     color: rgb(86, 114, 104);
     text-align: center;
     padding: 3vh;
-    background-color: #F9EBC8;
-    font-family: nunito;
+    background-color:white;
     font-weight: 500vh;
+    font-family: 'Concert One', cursive;
     border-radius: 150vh;
     margin: 3vh 30vh 2vh 30vh;
 }
 form{
-    padding:1vh 10vh 10vh 10vh;
-    background-color: #FEFBE7;
-    border-radius: 10vh;
     margin: 0vh 30vh 30vh 30vh;
+    font-family: nunito;
 }
 form .btn{
     border-radius: 200vh;
-    padding: 2vh 4vh 2vh 4vh; 
+    padding: 2vh 4vh 2vh 4vh;
+    background-color: #FEFBE7;
+ 
 }
 form .btn:hover{
     background-color: white;
-    color: gray;
+    color: #808080;
     cursor: pointer;
+}
+form .one, .two, .three, .four, .five{
+    border-radius: 5vh;
+    background-color: #EFEFEF;
+    padding: 3vh;
+
+}
+form span{
+    font-weight: 700;
 }
