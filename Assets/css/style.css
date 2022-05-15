@@ -35,3 +35,6 @@ form .one, .two, .three, .four, .five{
 form span{
     font-weight: 700;
 }
+.score_board{
+    border: 1px solid lightgray;
+}
