@@ -37,4 +37,12 @@ form span{
 }
 .score_board{
     border: 1px solid lightgray;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 30px;
+    padding-left: 20px;
+    font-family: nunito;
+    font-size: 20px;
+    background-color: #EFEFEF;;
 }

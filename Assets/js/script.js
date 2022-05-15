@@ -1,7 +1,7 @@
 function checkScore(){
     var marks=0;// declaration of a variable marks initialized to 0
 
-    //creating variables for each of the question
+    //creating variables for each of the question and assigns values to them
     var q1=document.quizz.question1.value;
     var q2=document.quizz.question2.value;
     var q3=document.quizz.question3.value;
@@ -28,11 +28,8 @@ function checkScore(){
     if (q5=="push()"){
         marks+=20
     }
+
     quizz.style.display='none';
-
-
-
-    
 
 
     if (marks>80){
@@ -41,12 +38,10 @@ function checkScore(){
     }
     else if (marks>=50 && marks<80){
         document.getElementById("yourScore").innerHTML="You scored" + " " + marks +"%" + "You have fairly passed ";
-        
-
     
     }
     else{
-        document.getElementById("yourScore").innerHTML="You scored" + " " + marks +"%" + "You have scored poorly.Retake test ";
+        document.getElementById("yourScore").innerHTML="You scored" + " " + marks +"%" + "You have scored poorly.\n Retake test ";
     }
     
     
