@@ -41,7 +41,7 @@ function checkScore(){
     
     }
     else{
-        document.getElementById("yourScore").innerHTML="You scored" + " " + marks +"%" + "You have scored poorly.\n Retake test ";
+        document.getElementById("yourScore").innerHTML="You scored" + " " + marks +"%" + "You have scored poorly.Retake test ";
     }
     
     
