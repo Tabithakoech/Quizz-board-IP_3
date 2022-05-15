@@ -19,7 +19,7 @@ You can obtain the figma design file here [FIGMA FILE](https://www.figma.com/fil
 * cd quizz_board && code .
   
 ## Link to the site on GitHub Pages
-To check out the website live at: https://tabithakoech.github.io/
+To check out the website live at: https://tabithakoech.github.io/.
 ## Copyright and license information
 [MIT](https://opensource.org/licenses/MIT) <br>
 Copyright <2022> <Tabby_koech>
