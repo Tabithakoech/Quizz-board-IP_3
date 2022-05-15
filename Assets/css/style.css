@@ -21,7 +21,19 @@ form .btn{
     background-color: #FEFBE7;
  
 }
+form .btn2{
+    float: right;
+    border-radius: 200vh;
+    padding: 2vh 4vh 2vh 4vh;
+    background-color: #FEFBE7;
+}
 form .btn:hover{
+    background-color: white;
+    color: #808080;
+    cursor: pointer;
+}
+
+form .btn2:hover{
     background-color: white;
     color: #808080;
     cursor: pointer;
